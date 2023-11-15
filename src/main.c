@@ -1,3 +1,7 @@
+/*
+    HC128 Implemented by Minh Kien 20203471
+*/
+
 #include <stdio.h>
 #include <stdint.h>
 
