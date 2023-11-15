@@ -12,4 +12,4 @@ generate: build
 	$(TARGET) > $(OUTPUT)
 
 clean:
-	rm $(TARGET)
+	rm $(TARGET) $(OUTPUT)
