@@ -7,12 +7,12 @@
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -23,12 +23,12 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -39,12 +39,12 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -55,12 +55,12 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -71,12 +71,12 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -87,12 +87,12 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -103,12 +103,12 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 
 				RANK TEST
 		---------------------------------------------
@@ -119,10 +119,10 @@ FAILURE		p_value = 0.000002
 		(c)             P_30 = 0.133636
 		(d) Frequency   F_32 = 0
 		(e)             F_31 = 0
-		(f)             F_30 = 4
-		(g) # of matrices    = 4
-		(h) Chi^2            = 25.932118
-		(i) NOTE: 0 BITS WERE DISCARDED.
+		(f)             F_30 = 46
+		(g) # of matrices    = 46
+		(h) Chi^2            = 298.219359
+		(i) NOTE: 896 BITS WERE DISCARDED.
 		---------------------------------------------
-FAILURE		p_value = 0.000002
+FAILURE		p_value = 0.000000
 

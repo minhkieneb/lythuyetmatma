@@ -113,6 +113,14 @@ void HC128_Generate_Keystream(HC128_State *state, uint32 key_length, uint32* S) 
     }
 }
 
+void intToBinary(int num) {
+    for (int bit = 31; bit >= 0; bit--) {
+        // Shift the bits of the number to the right, then bitwise AND with 1
+        int bitValue = (num >> bit) & 1;
+        printf("%d", bitValue);
+    }
+}
+
 int main() {
     // Example key and IV
     uint32 key[8] = {0x01234567, 0x89ABCDEF, 0xFEDCBA98, 0x76543210, 0x01234567, 0x89ABCDEF, 0xFEDCBA98, 0x76543210};
@@ -123,13 +131,13 @@ int main() {
     HC128_Init(&state, key, iv);
 
     // Generate key stream
-    size_t numWords = 16; // Number of 32-bit words to generate
+    size_t numWords = 1500; // Number of 32-bit words to generate
     uint32 keystream[numWords];
     HC128_Generate_Keystream(&state, numWords, keystream);
 
     // Print the generated key stream
     for (size_t i = 0; i < numWords; i++) {
-        printf("%08X ", keystream[i]);
+        intToBinary(keystream[i]);
     }
     printf("\n");
 

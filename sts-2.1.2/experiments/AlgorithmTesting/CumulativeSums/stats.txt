@@ -2,7 +2,7 @@
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1487
+		(a) The maximum partial sum = 18097
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -10,7 +10,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1486
+		(a) The maximum partial sum = 18096
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -18,7 +18,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1527
+		(a) The maximum partial sum = 18080
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -26,7 +26,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1526
+		(a) The maximum partial sum = 18080
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -34,7 +34,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1531
+		(a) The maximum partial sum = 18016
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -42,7 +42,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1530
+		(a) The maximum partial sum = 18016
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -50,7 +50,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1523
+		(a) The maximum partial sum = 17969
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -58,7 +58,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1522
+		(a) The maximum partial sum = 17968
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -66,7 +66,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1525
+		(a) The maximum partial sum = 17957
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -74,7 +74,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1524
+		(a) The maximum partial sum = 17956
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -82,7 +82,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1514
+		(a) The maximum partial sum = 17917
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -90,7 +90,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1514
+		(a) The maximum partial sum = 17916
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -98,7 +98,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1525
+		(a) The maximum partial sum = 17969
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -106,7 +106,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1524
+		(a) The maximum partial sum = 17968
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -114,7 +114,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1523
+		(a) The maximum partial sum = 17848
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -122,7 +122,7 @@ FAILURE		p_value = 0.000000
 		-------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		-------------------------------------------
-		(a) The maximum partial sum = 1522
+		(a) The maximum partial sum = 17848
 		-------------------------------------------
 FAILURE		p_value = 0.000000
 

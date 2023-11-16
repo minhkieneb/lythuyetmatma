@@ -3,7 +3,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -15,7 +15,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -27,7 +27,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -39,7 +39,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -51,7 +51,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -63,7 +63,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -75,7 +75,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -87,7 +87,7 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 4096
+		(b) Sequence Length (n)  = 48000
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN

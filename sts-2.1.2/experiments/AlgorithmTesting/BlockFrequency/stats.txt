@@ -2,8 +2,8 @@
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 543.156250
-		(b) # of substrings = 32
+		(a) Chi^2           = 6868.375000
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -13,8 +13,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 572.906250
-		(b) # of substrings = 32
+		(a) Chi^2           = 6853.812500
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -24,8 +24,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 573.718750
-		(b) # of substrings = 32
+		(a) Chi^2           = 6806.312500
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -35,8 +35,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 569.718750
-		(b) # of substrings = 32
+		(a) Chi^2           = 6771.062500
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -46,8 +46,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 569.687500
-		(b) # of substrings = 32
+		(a) Chi^2           = 6759.625000
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -57,8 +57,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 562.906250
-		(b) # of substrings = 32
+		(a) Chi^2           = 6735.187500
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -68,8 +68,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 570.500000
-		(b) # of substrings = 32
+		(a) Chi^2           = 6771.687500
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------
@@ -79,8 +79,8 @@ FAILURE		p_value = 0.000000
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) Chi^2           = 569.781250
-		(b) # of substrings = 32
+		(a) Chi^2           = 6681.625000
+		(b) # of substrings = 375
 		(c) block length    = 128
 		(d) Note: 0 bits were discarded.
 		---------------------------------------------

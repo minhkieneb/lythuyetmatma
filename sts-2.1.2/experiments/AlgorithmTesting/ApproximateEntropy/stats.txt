@@ -3,15 +3,12 @@
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4973.388938
-		(d) Phi(m)	       = -2.939901
-		(e) Phi(m+1)	       = -3.025945
-		(f) ApEn                = 0.086044
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58226.308417
+		(d) Phi(m)	       = -2.945707
+		(e) Phi(m+1)	       = -3.032330
+		(f) ApEn                = 0.086623
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -20,15 +17,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4972.429373
-		(d) Phi(m)	       = -2.944720
-		(e) Phi(m+1)	       = -3.030881
-		(f) ApEn                = 0.086161
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58227.949693
+		(d) Phi(m)	       = -2.945712
+		(e) Phi(m+1)	       = -3.032318
+		(f) ApEn                = 0.086606
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -37,15 +31,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4969.053933
-		(d) Phi(m)	       = -2.945666
-		(e) Phi(m+1)	       = -3.032240
-		(f) ApEn                = 0.086573
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58224.576049
+		(d) Phi(m)	       = -2.945868
+		(e) Phi(m+1)	       = -3.032509
+		(f) ApEn                = 0.086641
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -54,15 +45,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4969.161816
-		(d) Phi(m)	       = -2.945335
-		(e) Phi(m+1)	       = -3.031895
-		(f) ApEn                = 0.086560
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58226.618372
+		(d) Phi(m)	       = -2.945814
+		(e) Phi(m+1)	       = -3.032434
+		(f) ApEn                = 0.086620
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -71,15 +59,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4970.799269
-		(d) Phi(m)	       = -2.945034
-		(e) Phi(m+1)	       = -3.031395
-		(f) ApEn                = 0.086360
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58228.520986
+		(d) Phi(m)	       = -2.945762
+		(e) Phi(m+1)	       = -3.032362
+		(f) ApEn                = 0.086600
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -88,15 +73,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4969.581474
-		(d) Phi(m)	       = -2.944683
-		(e) Phi(m+1)	       = -3.031192
-		(f) ApEn                = 0.086509
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58225.969892
+		(d) Phi(m)	       = -2.945744
+		(e) Phi(m+1)	       = -3.032371
+		(f) ApEn                = 0.086627
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -105,15 +87,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4968.796105
-		(d) Phi(m)	       = -2.945523
-		(e) Phi(m+1)	       = -3.032128
-		(f) ApEn                = 0.086605
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58225.949877
+		(d) Phi(m)	       = -2.945828
+		(e) Phi(m+1)	       = -3.032455
+		(f) ApEn                = 0.086627
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
@@ -122,15 +101,12 @@ FAILURE		p_value = 0.000000
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
 		(a) m (block length)    = 10
-		(b) n (sequence length) = 4096
-		(c) Chi^2               = 4969.614762
-		(d) Phi(m)	       = -2.945224
-		(e) Phi(m+1)	       = -3.031729
-		(f) ApEn                = 0.086505
+		(b) n (sequence length) = 48000
+		(c) Chi^2               = 58228.432321
+		(d) Phi(m)	       = -2.945470
+		(e) Phi(m+1)	       = -3.032071
+		(f) ApEn                = 0.086601
 		(g) Log(2)              = 0.693147
-		--------------------------------------------
-		Note: The blockSize = 10 exceeds recommended value of 7
-		Results are inaccurate!
 		--------------------------------------------
 FAILURE		p_value = 0.000000
 
