@@ -4,6 +4,7 @@
 ### Mô tả
 
 Nội dung bài tập lớn bao gồm:
+
     1. Cơ sở lý thuyết mật mã dòng HC128 (ppt đi kèm)
 
     2. Triển khai thuật toán sử dụng ngôn ngữ lập trình C
