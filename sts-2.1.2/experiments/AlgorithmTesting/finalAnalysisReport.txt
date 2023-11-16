@@ -1,167 +1,167 @@
 ------------------------------------------------------------------------------
 RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
 ------------------------------------------------------------------------------
-   generator is <../output/data.pi>
+   generator is <../output/data.txt>
 ------------------------------------------------------------------------------
  C1  C2  C3  C4  C5  C6  C7  C8  C9 C10  P-VALUE  PROPORTION  STATISTICAL TEST
 ------------------------------------------------------------------------------
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  Frequency
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  BlockFrequency
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  CumulativeSums
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  CumulativeSums
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  Runs
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  LongestRun
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  Rank
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  FFT
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  NonOverlappingTemplate
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  OverlappingTemplate
+  1   0   0   0   0   0   1   0   0   0     ----       2/2       Frequency
+  1   0   1   0   0   0   0   0   0   0     ----       2/2       BlockFrequency
+  1   0   0   0   1   0   0   0   0   0     ----       2/2       CumulativeSums
+  1   1   0   0   0   0   0   0   0   0     ----       2/2       CumulativeSums
+  0   0   0   0   1   0   0   0   0   1     ----       2/2       Runs
+  0   1   0   0   1   0   0   0   0   0     ----       2/2       LongestRun
+  0   0   1   0   1   0   0   0   0   0     ----       2/2       Rank
+  0   1   0   0   0   0   1   0   0   0     ----       2/2       FFT
+  0   0   1   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   0   1   0     ----       1/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   2   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   1   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   1   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   1   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   1   0   0     ----       1/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   1   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   1   0   0   0   0   0     ----       1/2       NonOverlappingTemplate
+  1   0   0   0   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   0   0   1     ----       1/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   2   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   1   0   0   0   0   0   0   0   0     ----       1/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   0   1     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   2   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   1   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   1   0   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   1   0   0   0     ----       1/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   2   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   1   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   1   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   1   0   0   0     ----       1/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   1   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   0   0   1     ----       2/2       NonOverlappingTemplate
+  1   1   0   0   0   0   0   0   0   0     ----       1/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   1   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   1   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   2   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   2   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   2   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  1   1   0   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   2   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   1   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   2   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   1   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   0   2   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   1   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   0   1   0     ----       2/2       NonOverlappingTemplate
+  1   1   0   0   0   0   0   0   0   0     ----       1/2       NonOverlappingTemplate
+  0   0   0   0   1   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   1   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   1   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   2   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   1   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   1   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   1   0   0   0   0   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  1   0   1   0   0   0   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   1   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   1   1   0   0     ----       2/2       NonOverlappingTemplate
+  1   0   0   0   0   1   0   0   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   0   0   2   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   0   1   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   0   0   1   0   1   0   0     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   0   0   0   0   1     ----       2/2       NonOverlappingTemplate
+  0   0   0   1   0   1   0   0   0   0     ----       2/2       OverlappingTemplate
   2   0   0   0   0   0   0   0   0   0     ----       0/2    *  Universal
   2   0   0   0   0   0   0   0   0   0     ----       0/2    *  ApproximateEntropy
   0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursions
@@ -190,9 +190,9 @@ RESULTS FOR THE UNIFORMITY OF P-VALUES AND THE PROPORTION OF PASSING SEQUENCES
   0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
   0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
   0   0   0   0   0   0   0   0   0   0     ----     ------     RandomExcursionsVariant
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  Serial
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  Serial
-  2   0   0   0   0   0   0   0   0   0     ----       0/2    *  LinearComplexity
+  0   0   0   0   0   0   0   0   1   1     ----       2/2       Serial
+  0   0   0   0   0   1   0   0   0   1     ----       2/2       Serial
+  0   0   0   1   0   0   0   0   0   1     ----       2/2       LinearComplexity
 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

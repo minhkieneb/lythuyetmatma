@@ -2,8 +2,8 @@
 		--------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
-		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 48000
+		(a) Number Of Cycles (J) = 23
+		(b) Sequence Length (n)  = 4800
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
@@ -14,8 +14,8 @@
 		--------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
-		(a) Number Of Cycles (J) = 2
-		(b) Sequence Length (n)  = 48000
+		(a) Number Of Cycles (J) = 103
+		(b) Sequence Length (n)  = 4800
 		--------------------------------------------
 
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN

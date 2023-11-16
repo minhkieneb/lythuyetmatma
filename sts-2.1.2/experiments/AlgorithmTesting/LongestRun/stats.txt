@@ -2,25 +2,25 @@
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) N (# of substrings)  = 375
-		(b) M (Substring Length) = 128
-		(c) Chi^2                = 2819.110467
+		(a) N (# of substrings)  = 600
+		(b) M (Substring Length) = 8
+		(c) Chi^2                = 4.822355
 		---------------------------------------------
 		      F R E Q U E N C Y
 		---------------------------------------------
-		<=4  5  6  7  8  >=9 P-value  Assignment
-		 375   0   0   0   0    0 FAILURE		p_value = 0.000000
+		  <=1     2     3    >=4   P-value  Assignment
+		 138 237 120  105 SUCCESS		p_value = 0.185277
 
 			  LONGEST RUNS OF ONES TEST
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) N (# of substrings)  = 375
-		(b) M (Substring Length) = 128
-		(c) Chi^2                = 2819.110467
+		(a) N (# of substrings)  = 600
+		(b) M (Substring Length) = 8
+		(c) Chi^2                = 2.401172
 		---------------------------------------------
 		      F R E Q U E N C Y
 		---------------------------------------------
-		<=4  5  6  7  8  >=9 P-value  Assignment
-		 375   0   0   0   0    0 FAILURE		p_value = 0.000000
+		  <=1     2     3    >=4   P-value  Assignment
+		 133 207 135  125 SUCCESS		p_value = 0.493417
 

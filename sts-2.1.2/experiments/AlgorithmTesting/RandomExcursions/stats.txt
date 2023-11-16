@@ -2,8 +2,8 @@
 		--------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
-		(a) Number Of Cycles (J) = 0002
-		(b) Sequence Length (n)  = 48000
+		(a) Number Of Cycles (J) = 0023
+		(b) Sequence Length (n)  = 4800
 		---------------------------------------------
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
 			  INSUFFICIENT NUMBER OF CYCLES.
@@ -13,8 +13,8 @@
 		--------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		--------------------------------------------
-		(a) Number Of Cycles (J) = 0002
-		(b) Sequence Length (n)  = 48000
+		(a) Number Of Cycles (J) = 0103
+		(b) Sequence Length (n)  = 4800
 		---------------------------------------------
 		WARNING:  TEST NOT APPLICABLE.  THERE ARE AN
 			  INSUFFICIENT NUMBER OF CYCLES.

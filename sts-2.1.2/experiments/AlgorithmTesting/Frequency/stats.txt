@@ -2,17 +2,17 @@
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) The nth partial sum = -18032
-		(b) S_n/n               = -0.375667
+		(a) The nth partial sum = -128
+		(b) S_n/n               = -0.026667
 		---------------------------------------------
-FAILURE		p_value = 0.000000
+SUCCESS		p_value = 0.064672
 
 			      FREQUENCY TEST
 		---------------------------------------------
 		COMPUTATIONAL INFORMATION:
 		---------------------------------------------
-		(a) The nth partial sum = -18052
-		(b) S_n/n               = -0.376083
+		(a) The nth partial sum = 36
+		(b) S_n/n               = 0.007500
 		---------------------------------------------
-FAILURE		p_value = 0.000000
+SUCCESS		p_value = 0.603332
 
