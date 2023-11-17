@@ -18,6 +18,20 @@ Nội dung bài tập lớn bao gồm:
 
 Bước 1: Tạo dòng khóa
 ```
-make generate
+make build
 ```
-Sau khi đã thực hiện câu lệnh make, file data.txt chứa dòng khóa sẽ được tạo ra và lưu trong thư mục ./output
+
+
+Bước 2: Gen key stream 
+```
+./output/hc128_generators 
+```
+
+Sau khi đã thực hiện câu lệnh, file data.txt chứa dòng khóa sẽ được tạo ra và lưu trong thư mục ./output (độ dài dòng khóa là 48000 bits)
+
+Bước 3: Thực hiện kiểm thử
+
+Sau khi kiểm thử, file report được lưu tại  ./sts-2.1.2/experiments/finalAnalysisReport.txt
+
+File kiểm thử sau cho dòng khóa đã tạo phía trên khá tốt 
+
