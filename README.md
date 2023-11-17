@@ -33,5 +33,5 @@ Bước 3: Thực hiện kiểm thử
 
 Sau khi kiểm thử, file report được lưu tại  ./sts-2.1.2/experiments/finalAnalysisReport.txt
 
-File kiểm thử sau cho dòng khóa đã tạo phía trên khá tốt 
+File kiểm thử cho thấy dòng khóa đã tạo phía trên khá tốt 
 
