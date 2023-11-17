@@ -5,7 +5,7 @@
 #include <stdio.h>
 #include <stdint.h>
 
-#define FILEDIR "../output/data.txt"
+#define FILEDIR "./output/data.txt"
 
 void writeIntegerToFile(const char *filename, int value) {
    FILE *file = fopen(filename, "ab");
